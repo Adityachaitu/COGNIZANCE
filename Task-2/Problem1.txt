@@ -1,0 +1,13 @@
+Problem1:
+1.Enter a number (let it be “n”).
+2. while “n” is greater than 9
+Then
+Add the digits until it will be converted to a single digit.
+3.After attaining the single digit (let it be “t”). 
+If   t =3 or 6 or 9
+Then 
+It is divisible by 3 and 
+Gives output “TRUE”
+Or 
+It is not divisible by 3 and
+Gives output “FALSE”
