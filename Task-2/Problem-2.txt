@@ -1,0 +1,18 @@
+Problem 2:
+1.First 3 numbers of the Fibonacci series are constant.
+0 , 1 , 1
+2. Consider “0” as the 0th term and 1 as 1st and second 1 as 2nd term.
+3. Input the required term in Fibonacci series. (let it be “n”).
+4. If “n” is not equal to zero (because the number of terms can only be in positive signed numbers and 0 is not positive nor negative)
+Then 
+It will give the output as the required Fibonacci number.
+Else
+It will give output “0”.
+Final output be like:
+If input = 0; answer =0
+If input =1; answer =1
+.
+.
+If input =11; answer = 89
+.
+.
